@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @OnkelJesus
+- 👀 I’m interested in photography, videogames and coding
+- 🌱 I’m currently learning C, HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: It's illegal to own just one guinea pig in Switzerland
