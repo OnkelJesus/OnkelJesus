@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @OnkelJesus or Markus, if you're fancy
-- 👀 I’m interested in photography, videogames and coding
 - 🏫 I'm studying business informatics (C, Java (currently))
 - 🌱 I’m currently learning the basics of C++, Python
-- 💞️ I’m looking to collaborate on ... to be continued
-- 📫 How to reach me ... to be continued
+- 👀 I’m interested in photography, videogames and coding
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: It's illegal to own just one guinea pig in Switzerland
